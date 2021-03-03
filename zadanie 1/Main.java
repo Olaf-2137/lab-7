@@ -6,7 +6,7 @@ public class main {
         Dog pies = new Dog("Reks", "Szarego");
         pies.makeSound();
 
-        Cat kot = new Cat("Puszek", "Czarnego");
+        Kot kot = new Cat("Puszek", "Czarnego");
         kot.makeSound();
 
     }
